@@ -1,0 +1,21 @@
+{
+    "name": "botwizard/idclient",
+    "type": "library",
+    "version": "1.0.0",
+    "license": "proprietary",
+    "description": "bw_idclient",
+    "authors": [
+        {
+            "name": "botwizard",
+            "email": "admin@botwizard.net"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+        ],
+        "psr-4": {
+            "Idclient\\": "app"
+        }
+    }
+}
